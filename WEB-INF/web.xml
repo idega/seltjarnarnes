@@ -4,8 +4,8 @@
 	"http://java.sun.com/dtd/web-app_2_3.dtd">
 <web-app>
 
-	<description>Skjalfandi eGov</description>
-	<display-name>Skjalfandi-eGov</display-name>
+	<description>Seltjarnarnes eGov</description>
+	<display-name>Seltjarnarnes-eGov</display-name>
 
 <!-- MODULE:BEGIN org.apache.myfaces 0.0 -->
 <!-- MODULE:END org.apache.myfaces 0.0 -->
