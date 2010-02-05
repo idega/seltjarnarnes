@@ -31,34 +31,6 @@
         <organization>Idega Software</organization>
         <roles/>
     </developer>
-    <developer>
-        <name>Birgir Eiriksson</name>
-        <id>birgir.anza</id>
-        <email>birgire@anza.is</email>
-        <organization>Anza</organization>
-        <roles/>
-    </developer>
-    <developer>
-        <name>Fridfinnur Gisli Skulason</name>
-        <id>fridfinnur.anza</id>
-        <email>fridfinnurs@anza.is</email>
-        <organization>Anza</organization>
-        <roles/>
-    </developer>
-    <developer>
-        <name>Dainis Brjuhoveckis</name>
-        <id>dainis</id>
-        <email>dainis.brjuhoveckis@idega.lv</email>
-        <organization>Idega Baltic</organization>
-        <roles/>
-    </developer>
-    <developer>
-      	<name>Aleksandras Skrynikovas</name>
-      	<id>alexis</id>
-      	<email>alexis@idega.com</email>
-      	<organization>idega software</organization>
-      	<roles />
-    </developer>
   </developers>
   <dependencies>
   
@@ -153,10 +125,6 @@
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
-      <artifactId>com.idega.idegaweb.widget</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.graphics</artifactId>
     </dependency>
     <dependency>
@@ -170,10 +138,6 @@
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.block.process.webservice</artifactId>
-    </dependency>
-	<dependency>
-      <groupId>com.idega.block.platform</groupId>
-  	  <artifactId>com.idega.facelets</artifactId>
     </dependency>
     
     <!-- eGov dependencies -->
